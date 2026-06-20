@@ -1,0 +1,8 @@
+Query:
+artist == "Beatles" and year == 1965
+
+Pattern:
+((artist == "Beatles") and (year == 1965))
+
+Visitor:
+((artist == "Beatles") and (year == 1965))

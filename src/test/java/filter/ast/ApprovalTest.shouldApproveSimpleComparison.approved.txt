@@ -1,0 +1,8 @@
+Query:
+artist == "Beatles"
+
+Pattern:
+(artist == "Beatles")
+
+Visitor:
+(artist == "Beatles")

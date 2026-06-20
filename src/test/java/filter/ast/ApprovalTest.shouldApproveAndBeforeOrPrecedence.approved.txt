@@ -1,0 +1,8 @@
+Query:
+genre == "rock" or year <= 1990 and artist == "Beatles"
+
+Pattern:
+((genre == "rock") or ((year <= 1990) and (artist == "Beatles")))
+
+Visitor:
+((genre == "rock") or ((year <= 1990) and (artist == "Beatles")))

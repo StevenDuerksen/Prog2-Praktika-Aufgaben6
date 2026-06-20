@@ -1,0 +1,8 @@
+Query:
+(genre == "rock" or genre == "jazz") and year >= 1980
+
+Pattern:
+(((genre == "rock") or (genre == "jazz")) and (year >= 1980))
+
+Visitor:
+(((genre == "rock") or (genre == "jazz")) and (year >= 1980))

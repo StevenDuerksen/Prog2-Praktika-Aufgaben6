@@ -1,0 +1,8 @@
+Query:
+genre == "rock" or genre == "jazz"
+
+Pattern:
+((genre == "rock") or (genre == "jazz"))
+
+Visitor:
+((genre == "rock") or (genre == "jazz"))

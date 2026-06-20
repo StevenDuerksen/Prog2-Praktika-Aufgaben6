@@ -1,0 +1,8 @@
+Query:
+genre in ("rock", "jazz", "blues")
+
+Pattern:
+(genre in ("rock", "jazz", "blues"))
+
+Visitor:
+(genre in ("rock", "jazz", "blues"))

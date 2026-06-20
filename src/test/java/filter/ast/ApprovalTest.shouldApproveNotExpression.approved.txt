@@ -1,0 +1,8 @@
+Query:
+not artist == "Beatles"
+
+Pattern:
+(not (artist == "Beatles"))
+
+Visitor:
+(not (artist == "Beatles"))
